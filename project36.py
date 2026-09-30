@@ -1,0 +1,8 @@
+print("My daily routine")
+print("I wake up at around 7am in the morning")
+print("I drink a cup of coffee")
+print("Then i take a bath")
+print("brush my teeth")
+print("Put on my clothes")
+print("Then eat my breakfast")
+print("Then I go to school")
